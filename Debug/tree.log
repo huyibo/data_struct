@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (tree.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  bSeqList.c
+  bStatusCode.c
+  main.c
+  Generating Code...
+  tree.vcxproj -> C:\work\code\c\test\tree\Debug\DataStructTest.exe
